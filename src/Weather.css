@@ -14,20 +14,20 @@ body {
 div {
   background-color: rgba(255, 255, 255, 0.9);
   padding: 2rem;
-  border-radius: 12px;
+  border-radius: 6px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
   max-width: 400px;
-  width: 100%;
+  width: 80%;
   text-align: center;
 }
 
 form {
-  margin-bottom: 1.5rem;
+  margin-bottom: 1rem;
 }
 
 input[type="text"] {
-  padding: 0.6rem;
-  width: 70%;
+  padding: 0.16rem;
+  width: 40%;
   border: 1px solid #ccc;
   border-radius: 6px;
   font-size: 1rem;
